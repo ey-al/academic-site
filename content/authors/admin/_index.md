@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Eyal
 
 # Username (this should match the folder name)
 authors:
@@ -47,7 +47,7 @@ social:
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/eyalhanfling
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
