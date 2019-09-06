@@ -23,7 +23,7 @@ bio: Eyal Hanfling is a PhD student at MIT in comparative politics and security 
 interests:
 - Political Violence
 - South Asia
-- Text-As-Data Methods
+- Text-As-Data
 
 education:
   courses:
