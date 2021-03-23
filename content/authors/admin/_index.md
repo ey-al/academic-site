@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Eyal Hanfling is a PhD student at MIT in comparative politics and security studies..
+bio: Eyal Hanfling is a PhD student at MIT in comparative politics and international relations..
 
 interests:
 - Political Violence
@@ -64,4 +64,4 @@ user_groups:
 - Visitors
 ---
 
-Eyal Hanfling is a PhD student in Political Science at the [Massachusetts Institute of Technology (MIT)](https://polisci.mit.edu/people/eyal-hanfling), concentrating in comparative politics and security studies. His research interests include political violence, ethnic conflict, and text-as-data, with a focus on South Asia. Prior to starting at MIT, Eyal was a research assistant in the South Asia program at the Stimson Center. He holds a BA in Public Policy Studies and South Asian Languages & Civilizations from the University of Chicago. Hanfling is a recipient of the Critical Language Scholarship, National Security Language Initiative for Youth Scholarship, and NCAA All-Academic award. He has advanced proficiency in Urdu and Hindi, and basic knowledge of Arabic, Hebrew, and Spanish. 
+I am a PhD student in Political Science at the [Massachusetts Institute of Technology (MIT)](https://polisci.mit.edu/people/eyal-hanfling), concentrating in comparative politics and international relations. My research interests include political violence, ethnic conflict, and text-as-data, with a focus on South Asia. Prior to starting at MIT, I was a research assistant in the South Asia program at the Stimson Center. I graduated with a BA in Public Policy Studies and South Asian Languages & Civilizations from the University of Chicago. I am a recipient of the Critical Language Scholarship, National Security Language Initiative for Youth Scholarship, and NCAA All-Academic award. I have advanced proficiency in Urdu and Hindi, and basic knowledge of Arabic, Hebrew, and Spanish. 
