@@ -27,7 +27,10 @@ interests:
 
 education:
   courses:
-  - course: AB, Public Policy Studies and South Asian Languages & Civilizations
+   - course: PhD in Political Science
+    institution: Massachusetts Institute of Technology
+    year: Ongoing
+  - course: AB in Public Policy Studies and South Asian Languages & Civilizations
     institution: University of Chicago
     year: 2017
 
