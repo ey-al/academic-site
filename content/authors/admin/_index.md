@@ -27,7 +27,7 @@ interests:
 
 education:
   courses:
-   - course: PhD in Political Science
+  - course: PhD in Political Science
     institution: Massachusetts Institute of Technology
     year: Ongoing
   - course: AB in Public Policy Studies and South Asian Languages & Civilizations
