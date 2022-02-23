@@ -69,7 +69,7 @@ user_groups:
 
 I am a PhD candidate in Political Science at the [Massachusetts Institute of Technology (MIT)](https://polisci.mit.edu/people/eyal-hanfling), concentrating in comparative politics and international relations. My research interests include political violence, ethnic conflict, and text-as-data, with a focus on South Asia. Prior to starting at MIT, I was a research assistant in the South Asia program at the Stimson Center. I graduated with a BA in Public Policy Studies and South Asian Languages & Civilizations from the University of Chicago. I am a recipient of the Critical Language Scholarship, National Security Language Initiative for Youth Scholarship, and NCAA All-Academic award. I have advanced proficiency in Urdu and Hindi, and basic knowledge of Arabic, Hebrew, and Spanish.
 
-type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/vocalizer/1.0.0/vocalizer.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/vocalizer/1.0.0/vocalizer.min.js"></script>
 
 <span class="vocalizer" data-source="/static/files/pronounce.m4a" data-lang="English">Eyal</span> is a Hebrew name — you can pronounce it like _hey y'all_.
 
