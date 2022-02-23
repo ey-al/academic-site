@@ -71,4 +71,4 @@ I am a PhD candidate in Political Science at the [Massachusetts Institute of Tec
 
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/vocalizer/1.0.0/vocalizer.min.js"></script>
 
-Pronounce my name: <span class="vocalizer" data-source="auto" data-lang="English">Eyal</span>
+Pronounce my name: <span class="vocalizer" data-source="auto" data-lang="Hebrew">Eyal</span>
