@@ -71,5 +71,5 @@ I am a PhD candidate in Political Science at the [Massachusetts Institute of Tec
 
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/vocalizer/1.0.0/vocalizer.min.js"></script>
 
-<span class="vocalizer" data-source="/static/files/pronounce.m4a" data-lang="English">Eyal</span> is a Hebrew name — you can pronounce it like _hey y'all_.
+<span class="vocalizer" data-source="files/pronounce.m4a" data-lang="English">Eyal</span> is a Hebrew name — you can pronounce it like _hey y'all_.
 
