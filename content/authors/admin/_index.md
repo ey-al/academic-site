@@ -48,9 +48,9 @@ social:
 # - icon: google-scholar
 #  icon_pack: ai
 #  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
- - icon: eye_speech_bubble
-   icon_pack: emoji
-   link: <a rel="me" href="https://mastodon.social/@hanfling"></a>
+# - icon: eye_speech_bubble
+#  icon_pack: emoji
+#   link: <a rel="me" href="https://mastodon.social/@hanfling"></a>
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 - icon: cv
@@ -67,7 +67,7 @@ user_groups:
 - Visitors
 ---
 
-I am a PhD candidate in Political Science at the [Massachusetts Institute of Technology (MIT)](https://polisci.mit.edu/people/eyal-hanfling), concentrating in comparative politics and international relations. My research interests include political violence, ethnic conflict, and text-as-data, with a focus on South Asia. Prior to starting at MIT, I was a research assistant in the South Asia program at the Stimson Center. I graduated with a BA in Public Policy Studies and South Asian Languages & Civilizations from the University of Chicago. I am a recipient of the Critical Language Scholarship, National Security Language Initiative for Youth Scholarship, and NCAA All-Academic award. I have advanced proficiency in Urdu and Hindi, and basic knowledge of Arabic, Hebrew, and Spanish.
+I am a PhD candidate in Political Science at the [Massachusetts Institute of Technology (MIT)](https://polisci.mit.edu/people/eyal-hanfling), concentrating in comparative politics and international relations. My research interests include political violence, ethnic conflict, and text-as-data, with a focus on South Asia. Prior to starting at MIT, I was a research assistant in the South Asia program at the Stimson Center. I graduated with a BA in Public Policy Studies and South Asian Languages & Civilizations from the University of Chicago. I am a recipient of the Critical Language Scholarship, National Security Language Initiative for Youth Scholarship, and NCAA All-Academic award. I have advanced proficiency in Urdu and Hindi, and basic knowledge of Arabic, Hebrew, and Spanish<a rel="me" href="https://mastodon.social/@hanfling">.</a>
 
 <!---
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/vocalizer/1.0.0/vocalizer.min.js"></script>
