@@ -42,21 +42,25 @@ social:
 - icon: envelope
   icon_pack: fas
   link: "mailto:hanfling@mit.edu"  # For a direct email link, use "mailto:hanfling@mit.edu".
+- icon: cv
+  icon_pack: ai
+  link: files/eyalhanfling_cv.pdf
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/eyalhanfling
 - icon: mastodon
   icon_pack: fab
   link: https://mastodon.social/@hanfling
+- icon: b
+  icon_pack: fab
+  link: https://bsky.app/profile/hanfling.bsky.social
 # link: <a rel="me" href="https://mastodon.social/@hanfling"></a>
 # - icon: google-scholar
 #  icon_pack: ai
 #  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
-- icon: cv
-  icon_pack: ai
-  link: files/eyalhanfling_cv.pdf
+
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
