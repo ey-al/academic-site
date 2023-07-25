@@ -51,8 +51,8 @@ social:
 - icon: mastodon
   icon_pack: fab
   link: https://mastodon.social/@hanfling
-- icon: b
-  icon_pack: fab
+- icon: fa-b
+  icon_pack: fa-solid
   link: https://bsky.app/profile/hanfling.bsky.social
 # link: <a rel="me" href="https://mastodon.social/@hanfling"></a>
 # - icon: google-scholar
