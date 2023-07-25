@@ -45,12 +45,13 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/eyalhanfling
+- icon: mastodon
+  icon_pack: fab
+  link: https://mastodon.social/@hanfling
+# link: <a rel="me" href="https://mastodon.social/@hanfling"></a>
 # - icon: google-scholar
 #  icon_pack: ai
 #  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: mastodon
-  icon_pack: fab
-  link: <a rel="me" href="https://mastodon.social/@hanfling"></a>
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 - icon: cv
