@@ -51,7 +51,7 @@ social:
 - icon: mastodon
   icon_pack: fab
   link: https://mastodon.social/@hanfling
-- icon: milky_way
+- icon: :milky_way:
   icon_pack: emoji
   link: https://bsky.app/profile/hanfling.bsky.social
 # link: <a rel="me" href="https://mastodon.social/@hanfling"></a>
