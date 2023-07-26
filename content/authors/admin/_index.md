@@ -53,7 +53,7 @@ social:
   link: https://mastodon.social/@hanfling
 - icon: comments
   icon_pack: fas
-  link: https://bsky.app/profile/hanfling.bsky.social
+  link: https://bsky.app/profile/eyalhanfling.com
 # link: <a rel="me" href="https://mastodon.social/@hanfling"></a>
 # - icon: google-scholar
 #  icon_pack: ai
