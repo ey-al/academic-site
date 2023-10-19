@@ -15,7 +15,7 @@ role: PhD Candidate, Political Science
 # Organizations/Affiliations
 organizations:
 - name: Massachusetts Institute of Technology (MIT)
-  url: ""
+  url: "https://polisci.mit.edu/people/eyal-hanfling"
 
 # Short bio (displayed in user profile at end of posts)
 bio: Eyal Hanfling is a PhD candidate at MIT in comparative politics and international relations.
