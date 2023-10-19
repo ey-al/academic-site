@@ -21,9 +21,9 @@ organizations:
 bio: Eyal Hanfling is a PhD candidate at MIT in comparative politics and international relations.
 
 interests:
-- Political Violence
+- Political violence
+- Ethnic politics
 - South Asia
-- Text-As-Data
 
 education:
   courses:
@@ -72,7 +72,11 @@ user_groups:
 - Visitors
 ---
 
-I am a PhD candidate in Political Science at the [Massachusetts Institute of Technology (MIT)](https://polisci.mit.edu/people/eyal-hanfling), concentrating in comparative politics and international relations. My research interests include political violence, ethnic conflict, and text-as-data, with a focus on South Asia. Prior to starting at MIT, I was a research assistant in the South Asia program at the Stimson Center. I graduated with a BA in Public Policy Studies and South Asian Languages & Civilizations from the University of Chicago. I am a recipient of the Critical Language Scholarship, National Security Language Initiative for Youth Scholarship, and NCAA All-Academic award. I have advanced proficiency in Urdu and Hindi, and basic knowledge of Arabic, Hebrew, and Spanish<a rel="me" href="https://mastodon.social/@hanfling">.</a>
+Welcome! I am a PhD candidate in Political Science at the Massachusetts Institute of Technology (MIT). I study political violence, social media, and ethnic politics, with a focus on South Asia. My work uses survey experiments, relational interviews, and observational analyses of social media data. 
+
+At MIT, I am affiliated with the GOV/LAB, Global Diversity Lab, and Security Studies Program. My research has been supported by Schmidt Futures' International Strategy Forum and various programs at MIT’s Center for International Studies.
+
+Prior to starting at MIT, I was a research assistant at the Stimson Center in Washington, DC. I graduated with a BA in Public Policy Studies and South Asian Languages & Civilizations from the University of Chicago, where I competed on the varsity cross country and track teams. I have advanced proficiency in Urdu and Hindi, and basic knowledge of Arabic, Hebrew, and Spanish<a rel="me" href="https://mastodon.social/@hanfling">.</a>
 
 <!---
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/vocalizer/1.0.0/vocalizer.min.js"></script>
