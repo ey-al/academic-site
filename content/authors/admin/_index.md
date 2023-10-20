@@ -45,15 +45,15 @@ social:
 - icon: cv
   icon_pack: ai
   link: files/eyalhanfling_cv.pdf
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/eyalhanfling
-- icon: mastodon
-  icon_pack: fab
-  link: https://mastodon.social/@hanfling
 - icon: comments
   icon_pack: fas
   link: https://bsky.app/profile/eyalhanfling.com
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/eyalhanfling
+# - icon: mastodon
+#  icon_pack: fab
+#  link: https://mastodon.social/@hanfling
 # link: <a rel="me" href="https://mastodon.social/@hanfling"></a>
 # - icon: google-scholar
 #  icon_pack: ai
