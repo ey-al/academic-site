@@ -78,7 +78,9 @@ At MIT, I am affiliated with the GOV/LAB, Global Diversity Lab, and Security Stu
 
 Prior to starting at MIT, I was a research assistant at the Stimson Center in Washington, DC. I graduated with a BA in Public Policy Studies and South Asian Languages & Civilizations from the University of Chicago, where I competed on the varsity cross country and track teams. I have advanced proficiency in Urdu and Hindi, and basic knowledge of Arabic, Hebrew, and Spanish<a rel="me" href="https://mastodon.social/@hanfling">.</a>
 
-**June 2024:** My research was featured in an MIT GOV/LAB blog post, available (here)[https://mitgovlab.org/news/clarifying-the-links-between-whatsapp-and-political-behavior-in-india/].
+# News: 
+
+**June 2024:** My research was featured in an MIT GOV/LAB blog post, available [here](https://mitgovlab.org/news/clarifying-the-links-between-whatsapp-and-political-behavior-in-india/).
 
 <!---
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/vocalizer/1.0.0/vocalizer.min.js"></script>
